@@ -1,0 +1,10 @@
+Objects/
+Listings/
+*.o
+*.d
+*.crf
+*.lnp
+*.dep
+*.hex
+*.uvguix.*
+*.uvoptx
